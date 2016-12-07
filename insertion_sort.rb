@@ -15,3 +15,4 @@ def insertion_sort(arr)
   puts "Your sorted array using insertion sort is: #{arr}, steps it took: #{count}"
 end
 insertion_sort([4,2,7,1,3])
+#Your sorted array using insertion sort is: [1, 2, 3, 4, 7], steps it took: 18

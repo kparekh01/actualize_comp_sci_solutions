@@ -141,3 +141,4 @@ def recursive_anagram(string, anagram_array = [])
 end
 
 p recursive_anagram("cat")
+#["tca", "atc", "cta", "cat", "act", "tac"]
